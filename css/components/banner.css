@@ -1,0 +1,32 @@
+.banner {
+  height: 500px;
+  width: auto;
+  background-position: center;
+  margin: 0;
+  padding: 0;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-shadow: 0px 0px 0px rgba(0,0,0,0.4);
+}
+
+.banner-container {
+
+}
+
+.banner a {
+  background-color: rgb(43,113,136);
+  padding: 10px 22px;
+  border-radius: 20px;
+  color: white;
+}
+
+.banner a:hover {
+  background-color: rgb(63,133,156);
+}
+
+.banner p {
+  margin-bottom: 35px;
+}
+
